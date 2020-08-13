@@ -1,4 +1,4 @@
-# Personality-Prediction-using-the-Myers-Briggs-MBTI-and-Keirsey-Model
+# Personality Prediction Using the Myers-Briggs (MBTI) and Keirsey-Model
 
 Machine Learning Algorithms can be used to learn from a user’s social
 media data and infer his/her behavioral type.
