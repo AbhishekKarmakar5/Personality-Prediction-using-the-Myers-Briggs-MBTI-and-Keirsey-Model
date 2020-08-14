@@ -16,3 +16,5 @@ The proposed framework infers temperament types following the David Keirsey’s 
 # Some Plotting to portay the personality details from the mbti1 dataset
 
 ## Persons having such personalities
+
+![dummy](https://user-images.githubusercontent.com/39180928/90258640-76d62e80-de66-11ea-8dc0-ff19c9d3ba7f.png)
