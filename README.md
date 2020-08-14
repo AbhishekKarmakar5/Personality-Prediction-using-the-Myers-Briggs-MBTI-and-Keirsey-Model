@@ -11,9 +11,41 @@ the MBTI or the temperaments of Keirsey.
 
 The proposed framework infers temperament types following the David Keirsey’s model, and psychological types based on the MBTI model. On the twitter data 4 models have been trained – Logistic Regression, SGD Classifier, Random Forest, K Nearest Neighbours with showed an accuracy of 77%, 78%, 81% and 79%.
 
+# The 16 Personality Types by Myers-Briggs and Keirsey
+
 ![16-personality-types-infographic](https://user-images.githubusercontent.com/39180928/90257882-61143980-de65-11ea-9361-fd4c196273a1.jpg)
 
-# Some Plotting to portay the personality details from the mbti1 dataset
+# Four Temperaments by Keirsey
+
+David Keirsey expanded on the ancient study of temperament by Hippocrates and Plato. In his works, Keirsey used the names suggested by Plato: Artisan (iconic), Guardian (pistic), Idealist (noetic), and Rational (dianoetic). Keirsey divided the four temperaments into two categories (roles), each with two types (role variants). The resulting 16 types correlate with the 16 personality types described by Briggs and Myers (MBTI).
+
+## Artisans
+    Composer (ISFP)
+    Crafter (ISTP)
+    Performer (ESFP)
+    Promoter (ESTP)
+
+## Guardians
+    Inspector (ISTJ)
+    Protector (ISFJ)
+    Provider (ESFJ)
+    Supervisor (ESTJ)
+
+## Idealists
+    Champion (ENFP)
+    Counselor (INFJ)
+    Healer (INFP)
+    Teacher (ENFJ)
+
+## Rationals
+    Architect (INTP)
+    Fieldmarshal (ENTJ)
+    Inventor (ENTP)
+    Mastermind (INTJ)
+
+
+
+# Some Plotting to portay the personality details from the mbti1.csv dataset
 
 ## Persons having such personalities
 
