@@ -1,5 +1,7 @@
 # Personality Prediction Using the Myers-Briggs (MBTI) and Keirsey-Model
 
+Which type of a person are you? Given seven billion living people, it is a difficult question to answer. The leading personality type theory today classifies humanity into these 16 personality types on the basis of psychological types and 4 on the Keisey Model
+
 Machine Learning Algorithms can be used to learn from a user’s social
 media data and infer his/her behavioral type.
 
