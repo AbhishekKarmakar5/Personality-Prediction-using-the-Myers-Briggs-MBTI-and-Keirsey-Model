@@ -44,6 +44,7 @@ David Keirsey expanded on the ancient study of temperament by Hippocrates and Pl
     Mastermind (INTJ)
 
 
+### In other words one can say that Keirsey Model plays an integrated role in MYer-Briggs but not solely into it.
 
 # Some Plotting to portay the personality details from the mbti1.csv dataset
 
