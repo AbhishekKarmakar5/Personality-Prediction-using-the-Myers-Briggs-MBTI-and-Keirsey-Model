@@ -50,3 +50,5 @@ David Keirsey expanded on the ancient study of temperament by Hippocrates and Pl
 ## Persons having such personalities
 
 ![dummy](https://user-images.githubusercontent.com/39180928/90258640-76d62e80-de66-11ea-8dc0-ff19c9d3ba7f.png)
+
+![Capture](https://user-images.githubusercontent.com/39180928/90329195-2246c680-dfc0-11ea-9a1a-919154d1a995.PNG)
