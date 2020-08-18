@@ -43,6 +43,65 @@ David Keirsey expanded on the ancient study of temperament by Hippocrates and Pl
     Inventor (ENTP)
     Mastermind (INTJ)
 
+# Myers–Briggs Type Indicator
+
+The Myers–Briggs Type Indicator (MBTI) is an introspective self-report questionnaire indicating differing psychological preferences in how people perceive the world and make decisions.The test attempts to assign four categories: introversion or extraversion, sensing or intuition, thinking or feeling, judging or perceiving. One letter from each category is taken to produce a four-letter test result, like "ISTJ" or "ENFP". 
+
+## Extraverting
+    Initiating
+    Expressive
+    Gregarious
+    Active
+    Enthusiastic
+    
+## Introverting
+    Receiving
+    Contained
+    Intimate
+    Reflective
+    Quiet
+
+## Sensing
+    Concrete
+    Realistic
+    Practical
+    Experiential
+    Traditional
+    
+## Intuiting
+    Abstract
+    Imaginative
+    Conceptual
+    Theoretical
+    Original
+
+## Thinking
+    Logical
+    Reasonable
+    Questioning
+    Critical
+    Tough
+
+## Feeling
+    Empathetic
+    Compassionate
+    Accommodating
+    Accepting
+    Tender
+
+## Judging
+    Systematic
+    Planful
+    Early Starting
+    Scheduled
+    Methodical
+
+## Perceiving
+    Casual
+    Open-ended
+    Prompted
+    Spontaneous
+    Emergent
 
 ### In other words one can say that Keirsey Model plays an integrated role in MYer-Briggs but not solely into it.
 
