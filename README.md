@@ -111,14 +111,14 @@ The Myers–Briggs Type Indicator (MBTI) is an introspective self-report questio
 
 ![dummy](https://user-images.githubusercontent.com/39180928/90258640-76d62e80-de66-11ea-8dc0-ff19c9d3ba7f.png)
 
-##              Error Rate versus the K-Vaule of K-Nearest Neighbour
+## Error Rate versus the K-Vaule of K-Nearest Neighbour
 
 ![Capture](https://user-images.githubusercontent.com/39180928/90329195-2246c680-dfc0-11ea-9a1a-919154d1a995.PNG)
 
-##                                  Scatter Plot
+## catter Plot
 
 ![scatter](https://user-images.githubusercontent.com/39180928/90526588-350ef600-e18e-11ea-9a52-ba74144d9b4a.png)
 
-##                                  Strip Plot
+## Strip Plot
 
 ![stripplot](https://user-images.githubusercontent.com/39180928/90664947-fc901a80-e268-11ea-9c25-0550a53fef37.png)
