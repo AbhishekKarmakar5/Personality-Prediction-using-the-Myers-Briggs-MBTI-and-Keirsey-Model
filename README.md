@@ -122,3 +122,5 @@ The Myers–Briggs Type Indicator (MBTI) is an introspective self-report questio
 ## Strip Plot
 
 ![stripplot](https://user-images.githubusercontent.com/39180928/90664947-fc901a80-e268-11ea-9c25-0550a53fef37.png)
+
+![vilon](https://user-images.githubusercontent.com/39180928/90804609-19dfea00-e338-11ea-91b5-8635297af00a.png)
